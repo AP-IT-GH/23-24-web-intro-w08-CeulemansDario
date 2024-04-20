@@ -11,4 +11,6 @@
  - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
  - Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+ *https://openai.com/security
+ https://owasp.org/www-project-api-security/
+ https://www.csoonline.com/article/574407/9-api-security-tools-on-the-frontlines-of-cybersecurity.html*
